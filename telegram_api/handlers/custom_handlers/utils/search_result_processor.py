@@ -79,6 +79,7 @@ class SearchResultProcessor:
         return data
 
     @classmethod
+    @logger.catch
     def send_message(cls, data: Tuple, chat_id: int) -> None:
         """
         Метод.
