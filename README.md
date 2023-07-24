@@ -11,6 +11,9 @@ Place by place - это телеграм-бот, находящий
 общую информацию о нём.
 
 
+![](https://github.com/egrorik/place_by_place/blob/main/bot_in_action.gif)
+
+
 ## Дополнительная документация:
 * [Проблема, которую решает проект](docs/another_docs/problem_and_solution.md)  
 * [Используемые сервисы](docs/another_docs/services_used.md)  
