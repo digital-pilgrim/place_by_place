@@ -1,0 +1,5 @@
+* [Алгоритм запуска](../bot_algorithm/start_algorithm.html)
+* [Алгоритм получения справки](../bot_algorithm/help_getting_algorithm.html)
+* [Алгоритм отправки геопозиции](../bot_algorithm/geoposition_sending_algorithm.html)
+* [Алгоритм поиска](../bot_algorithm/search_algorithm.html)
+* [Алгоритм получения истории запросов](../bot_algorithm/search_history_getting_algorithm.html)
