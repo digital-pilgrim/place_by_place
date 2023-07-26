@@ -24,7 +24,7 @@ Place by place - это телеграм-бот, находящий
 ## Сборка репозитория и локальный запуск
 Выполните в терминале:
 ```
-git clone https://github.com/egrorik/place_by_place.git
+git clone https://github.com/digital-pilgrim/place_by_place.git
 pip install -r requirements.txt
 ```
  
